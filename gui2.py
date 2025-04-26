@@ -60,7 +60,7 @@ def check_password():
         strength = "Strong Password"
     elif strength_score == 4:
         strength = "Moderate Password"
-    elif strength_score >= 3:
+    else:
         strength = "Weak Password"
 
     result.config(text="\n".join(message) + f'\n\nStrength: {strength}')
