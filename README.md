@@ -47,6 +47,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Made with ❤️ by OGUNKANMBI GBEMISOlA
+Made with ❤️ by [OGUNKANMBI GBEMISOlA]
+
 GitHub: TeeToWrld
 
